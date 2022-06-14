@@ -10,16 +10,16 @@ address = "PwDiXFxQsGra4sFFTT8r1QWRMd4vfumiWC1jfWNfdYT"
 [features]
 seeds = false
 [programs.localnet]
-jmint = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+jmint = "8GoXp1CfyXrCt9H7jynCzxMyw65XGECHGQM5MDE7qrxC"
 
 [programs.devnet]
-jmint = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+jmint = "8GoXp1CfyXrCt9H7jynCzxMyw65XGECHGQM5MDE7qrxC"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/root/.config/solana/id.json"
 
 [scripts]
